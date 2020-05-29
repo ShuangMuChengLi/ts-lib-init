@@ -2,7 +2,7 @@
   "compilerOptions": {
     "declaration": true,
     "outDir": "dist",
-    "types" : ["jest","node"],
+    "types" : ["jest","node","mocha"],
     "lib": ["es2015","dom"]
   },
   "include": [
